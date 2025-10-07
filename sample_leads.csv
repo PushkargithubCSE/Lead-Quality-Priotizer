@@ -1,0 +1,21 @@
+first_name,last_name,full_name,email,job_title,company_name,company_domain,linkedin_url,phone,estimated_revenue
+Alice,Smith,Alice Smith,alice.smith@acme.com,VP Sales,Acme Inc,acme.com,https://www.linkedin.com/in/alicesmith,1234567890,5000000
+Bob,Jones,Bob Jones,bob.jones@gmail.com,Software Engineer,StartupX,startupx.com,https://www.linkedin.com/in/bobjones,2345678901,1200000
+Charlie,Brown,Charlie Brown,charlie@globex.com,CEO,Globex Corporation,globex.com,https://www.linkedin.com/in/charliebrown,3456789012,10000000
+Dana,White,Dana White,dana.white@yahoo.com,Marketing Manager,Innotech,innotech.com,https://www.linkedin.com/in/danawhite,4567890123,3000000
+Eve,Black,Eve Black,eve@personalmail.com,Director of Operations,TechSolutions,techsolutions.com,https://www.linkedin.com/in/eveblack,5678901234,7500000
+First6,Last6,First6 Last6,user6@company6.com,Manager,Company6,company6.com,https://www.linkedin.com/in/user6,6000000006,3000000
+First7,Last7,First7 Last7,user7@company7.com,Engineer,Company7,company7.com,https://www.linkedin.com/in/user7,6000000007,3500000
+First8,Last8,First8 Last8,user8@company8.com,Manager,Company8,company8.com,https://www.linkedin.com/in/user8,6000000008,4000000
+First9,Last9,First9 Last9,user9@company9.com,Engineer,Company9,company9.com,https://www.linkedin.com/in/user9,6000000009,4500000
+First10,Last10,First10 Last10,user10@company10.com,Manager,Company10,company10.com,https://www.linkedin.com/in/user10,6000000010,5000000
+First11,Last11,First11 Last11,user11@company11.com,Engineer,Company11,company11.com,https://www.linkedin.com/in/user11,6000000011,5500000
+First12,Last12,First12 Last12,user12@company12.com,Manager,Company12,company12.com,https://www.linkedin.com/in/user12,6000000012,6000000
+First13,Last13,First13 Last13,user13@company13.com,Engineer,Company13,company13.com,https://www.linkedin.com/in/user13,6000000013,6500000
+First14,Last14,First14 Last14,user14@company14.com,Manager,Company14,company14.com,https://www.linkedin.com/in/user14,6000000014,7000000
+First15,Last15,First15 Last15,user15@company15.com,Engineer,Company15,company15.com,https://www.linkedin.com/in/user15,6000000015,7500000
+First16,Last16,First16 Last16,user16@company16.com,Manager,Company16,company16.com,https://www.linkedin.com/in/user16,6000000016,8000000
+First17,Last17,First17 Last17,user17@company17.com,Engineer,Company17,company17.com,https://www.linkedin.com/in/user17,6000000017,8500000
+First18,Last18,First18 Last18,user18@company18.com,Manager,Company18,company18.com,https://www.linkedin.com/in/user18,6000000018,9000000
+First19,Last19,First19 Last19,user19@company19.com,Engineer,Company19,company19.com,https://www.linkedin.com/in/user19,6000000019,9500000
+First20,Last20,First20 Last20,user20@company20.com,Manager,Company20,company20.com,https://www.linkedin.com/in/user20,6000000020,10000000
